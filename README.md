@@ -6,7 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/tanvir-hossan-dev) 
 
-Welcome to my GitHub profile.
 
 Skills: REACT / REDUX / FIREBASE / EXPRESS / NODE / MONGODB/  JS / HTML / CSS / TAILWIND CSS
 </div>
