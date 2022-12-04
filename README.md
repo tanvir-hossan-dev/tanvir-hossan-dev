@@ -40,23 +40,6 @@ Skills: REACT / REDUX / FIREBASE / EXPRESS / NODE / MONGODB/  JS / HTML / CSS / 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
- 
-## Github Stats  
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harun181&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harun181&theme=dark&hide_border=true" />
-</div>
-
-<br/>
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/harun181/github-readme-activity-graph)
-
 <br/>
 
 
