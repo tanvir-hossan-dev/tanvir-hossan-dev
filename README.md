@@ -15,7 +15,7 @@ Skills: REACT / REDUX / FIREBASE / EXPRESS / NODE / MONGODB/  JS / HTML / CSS / 
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanvir-hossan-dev](https://github.com/tanvir-hossan-dev)
 
-- 💬 Ask me about **HTML5, CSS3, JS, REACT, rEDUX**
+- 💬 Ask me about **HTML5, CSS3, JS, REACT, REDUX**
 
 - 📫 How to reach me **tanvirhossan27@gmail.com**
 
